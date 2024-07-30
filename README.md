@@ -16,3 +16,11 @@ I'm a University of Utah graduate with a degree in Computer Science and a minor 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="" /> -->
 
+#
+
+<details>
+  <summary><h3> Jarrod's Coding Journey </h3></summary>
+
+I started coding in my freshman year of college. Having excelled in math and science courses in high school, I saw Computer Science as an intriguing new frontier. When I began coding, I fell in love with the problem-solving aspect and the satisfaction that comes with overcoming challenging problems. Although I felt like I was a step behind in the software world because I didn't start coding until college, this pushed me to become proficient at picking up new skills quickly. I am excited to continue developing my skills and contributing to projects that can make a positive impact around the world!
+  
+</details>
