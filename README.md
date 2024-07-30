@@ -17,7 +17,6 @@ I'm a University of Utah graduate with a degree in Computer Science and a minor 
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="" /> -->
 
 #
-
 <details>
 <summary><h3> Jarrod's Coding Journey </h3></summary>
 
