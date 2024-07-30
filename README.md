@@ -8,5 +8,5 @@ I'm a University of Utah graduate with a degree in Computer Science and a minor 
 
 ### Languages and Tools <-- https://devicon.dev/ -->
 
-<img align="left" alt"java" width="30px" style"padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt"java" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
