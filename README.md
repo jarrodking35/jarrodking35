@@ -1,4 +1,7 @@
-## Hi there 👋
+# Jarrod King
+
+**` Aspiring Software Developer `**
+
 
 <!--
 **jarrodking35/jarrodking35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
